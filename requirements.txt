@@ -1,0 +1,7 @@
+ultralytics
+PyQt5
+psutil
+torch
+opencv-python
+numpy
+fpdf2
